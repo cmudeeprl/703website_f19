@@ -7,7 +7,7 @@ logo: cmu-logo.png
 news: true
 ---
 
-This course brings together many disciplines of Artificial Intelligence (including computer vision, robot control, reinforcement learning, language understanding) to show how to develop intelligent agent that can learn to sense the world and learn to act by imitating others, maximizing sparse rewards, and/or satisfying their curiosity.
+This course brings together many disciplines of Artificial Intelligence (including computer vision, robot control, reinforcement learning, language understanding) to show how to develop intelligent agents that can learn to sense the world and learn to act by imitating others, maximizing sparse rewards, and/or satisfying their curiosity.
 
 Upon completion of this course, you should be able to 
 - Implement and experiment with existing state-of-the-art methods for learning behavioral policies supervised by reinforcement, demonstrations and/or intrinsic curiosity.
