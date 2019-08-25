@@ -1,0 +1,12 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# for macOS (qsu1)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.idea/
+.ruby-version
