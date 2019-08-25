@@ -52,9 +52,7 @@ We strongly encourage all students to participate in discussion, ask, and answer
 
 The class requirements include brief readings and 6 homework assignments. This is a PhD level course, and by the end of this class you should have a good understanding of the basic methodologies in deep reinforcement learning, and be able to use them to solve real problems of modest complexity.
 
-The grading breakdown is as follows:
-
-- Homework Assignments (100%)
+The entirety of your course grade will be based on performance on the 6 homework assignments.
 
 Individual homeworks may NOT necessarily be worth the same percentage. **Some homework assignments may be worth more points than others**, therefore weighing more towards the total.
 
