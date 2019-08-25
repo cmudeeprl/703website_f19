@@ -7,12 +7,13 @@ logo: cmu-logo.png
 news: true
 ---
 
-In recent years, the combination of deep learning with reinforcement learning has led to great advancements in self-driving car technology, machines that can play video games at superhuman levels; and AlphaGo -- a program able to play the strategy game of Go at superhuman levels.  
+This course brings together many disciplines of Artificial Intelligence (including computer vision, robot control, reinforcement learning, language understanding) to show how to develop intelligent agent that can learn to sense the world and learn to act by imitating others, maximizing sparse rewards, and/or satisfying their curiosity.
 
-This graduate-level course brings together many disciplines of Artificial Intelligence (including deep Learning and reinforcement Learning) to show how to develop intelligent agents, that can learn to sense the world and learn to act imitating others or maximizing sparse rewards.  
-
-You will gain a strong foundation for both applying reinforcement learning to complex problems and addressing core research topics in the field. Particular focus will be given on incorporating visual sensory input and learning suitable visual state representations.
-
+Upon completion of this course, you should be able to 
+- Implement and experiment with existing state-of-the-art methods for learning behavioral policies supervised by reinforcement, demonstrations and/or intrinsic curiosity.
+- Evaluate the sample complexity, generalization and generality of these algorithms.
+- Understand research papers in the field of robotic learning.
+- Try out ideas/extensions on existing methods. 
 
 ***
 
