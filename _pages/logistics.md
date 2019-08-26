@@ -50,9 +50,9 @@ We strongly encourage all students to participate in discussion, ask, and answer
 
 ### Grading
 
-The class requirements include brief readings and 6 homework assignments. This is a PhD level course, and by the end of this class you should have a good understanding of the basic methodologies in deep reinforcement learning, and be able to use them to solve real problems of modest complexity.
+The class requirements include brief readings and 7 homework assignments. This is a PhD level course, and by the end of this class you should have a good understanding of the basic methodologies in deep reinforcement learning, and be able to use them to solve real problems of modest complexity.
 
-The entirety of your course grade will be based on performance on the 6 homework assignments.
+The entirety of your course grade will be based on performance on the 7 homework assignments.
 
 Individual homeworks may NOT necessarily be worth the same percentage. **Some homework assignments may be worth more points than others**, therefore weighing more towards the total.
 
@@ -62,12 +62,7 @@ Individual homeworks may NOT necessarily be worth the same percentage. **Some ho
 
 ### Homework Assignments
 
-There will be 6 homework assignments over the course of the semester.
-Unless otherwise stated, all homeworks must be completed independently (although discussion with your fellow students is allowed and encouraged as long as your interactions follow the course integrity policy).
-
-There will be certain assignments that alllow teams of two (or three); this will be stated explicitly in the instructions for the assignment.
-For assignments with teams, only one person should submit the writeup and code on Gradescope. Additionally you should upload your code to Autolab.
-Please make sure **the same person who submitted the writeup and code to Gradescope is the one who submits it to Autolab**. Make sure you **mark your partner as a collaborator on Gradescope** (you do not need to do this in Autolab) and that both names are listed in the writeup.
+There will be 7 homework assignments over the course of the semester. For each, you may work in groups of up to three students total. Only one person should submit the writeup and code on Gradescope. Additionally you should upload your code to Autolab. Please make sure **the same person who submitted the writeup and code to Gradescope is the one who submits it to Autolab**. Make sure you **mark your partner as a collaborator on Gradescope** (you do not need to do this in Autolab) and that both names are listed in the writeup.
 
 These assignments may contain material that has been covered by published papers and webpages.
 This is a graduate class and we expect students to solve the problems themselves rather than search for answers.
@@ -151,7 +146,7 @@ All violations (even the first violation) of the academic integrity or collabora
 
 ### Late Policy
 
-Each student has a total of **4 grace days** that may be applied to the homework assignments.
+Each student has a total of **10 grace days** that may be applied to the homework assignments.
 **No more than 3 grace days may be used on any single assignment**.
 
 Any assignment submitted more than 3 days past the deadline will get **zero credit**.
