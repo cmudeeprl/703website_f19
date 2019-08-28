@@ -2,7 +2,7 @@
   lecturer:
   title: >
     <strong>Course introduction</strong>
-  slides: https://www.dropbox.com/s/e69cbdw16y4l2bg/lecture1_intro.pdf?dl=0
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_1.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af64778a-feec-4aee-bf3c-aab500f2d03a
   notes:
   readings:
@@ -14,7 +14,7 @@
   lecturer:
   title: >
     <strong>Evolutionary methods for policy search</strong>
-  slides: https://www.dropbox.com/s/6c807mqku9bjdnl/evolutionarymethods_fall2019_katef.pdf?dl=0
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_2.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb36184f-8f73-4880-9751-aab500f4b44e
   notes:
   readings:
