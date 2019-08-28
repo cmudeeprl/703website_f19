@@ -31,6 +31,10 @@
   video:
   notes:
   readings:
+    - <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html" target=  "_blank">Amazon EC2 Basics</a>
+    - <a href="http://gym.openai.com/docs/" target=  "_blank">OpenAI Gym Documentation</a>
+    - <a href="https://www.tensorflow.org/guide/low_level_intro" target=  "_blank">The TensorFlow Low Level API</a>
+    - <a href="https://www.tensorflow.org/guide/keras" target=  "_blank">The TensorFlow High Level (Keras) API</a>
   logistics:
 
 - date: M 09/02
