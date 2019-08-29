@@ -65,7 +65,7 @@
     - <a href="http://gym.openai.com/docs/" target=  "_blank">OpenAI Gym Documentation</a>
     - <a href="https://www.tensorflow.org/guide/low_level_intro" target=  "_blank">The TensorFlow Low Level API</a>
     - <a href="https://www.tensorflow.org/guide/keras" target=  "_blank">The TensorFlow High Level (Keras) API</a>
-  logistics:
+  logistics: <span class="event">HW1 out</span>
 
 - date: M 09/09
   lecturer:
@@ -77,7 +77,7 @@
   readings:
     - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Networks</a>
     - Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank">Generative Adversarial Imitation Learning</a>
-  logistics: <span class="event">HW1 out</span>
+  logistics: 
 
 - date: W 09/11
   lecturer:
@@ -134,7 +134,8 @@
     - Kingma & Welling <a href="https://arxiv.org/pdf/1312.6114.pdf" target="_blank">Auto-Encoding Variational Bayes</a>
     - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
     - Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a>
-  logistics:
+  logistics: <span class="deadline">HW1 due</span> <br>
+    <span class="event">HW2 out</span>
 
 - date: M 09/23
   lecturer:
@@ -149,8 +150,7 @@
     - Shaul et al. <a href="https://arxiv.org/abs/1511.05952" target="_blank">Prioritized Experience Replay</a>
     - Bellemare et al. <a href="https://arxiv.org/abs/1707.06887" target="_blank">A Distributional Perspective on Reinforcement Learning</a>
     - Hessel et al. <a href="https://arxiv.org/abs/1710.02298" target="_blank">Rainbow - Combining Improvements in Deep Reinforcement Learning</a>
-  logistics: <span class="deadline">HW1 due</span> <br>
-    <span class="event">HW2 out</span>
+  logistics: 
 
 - date: W 09/25
   lecturer:
@@ -221,7 +221,7 @@
   readings:
     - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
-  logistics: <span class="event">HW4 out</span>
+  logistics: 
 
 - date: W 10/09
   lecturer:
@@ -233,7 +233,7 @@
   readings:
     - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic - Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
     - Haarnoja et al. <a href="https://arxiv.org/abs/1702.08165" target="_blank">Reinforcement Learning with Deep Energy-Based Policies</a>
-  logistics:
+  logistics: <span class="event">HW4 out</span>
 
 - date: F 10/11
   lecturer:
