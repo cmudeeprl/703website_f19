@@ -27,7 +27,7 @@
   lecturer:
   title: >
     <strong>Behavior Cloning and more Evolutionary Strategies</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_3.pdf
   video:
   notes:
   readings:
