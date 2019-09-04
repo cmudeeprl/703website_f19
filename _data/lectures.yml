@@ -47,8 +47,8 @@
   lecturer:
   title: >
     <strong>REC: Behavior Cloning and Evolutionary Strategies</strong>
-  slides:
-  video:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/recitation_1.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=50c63833-9a5d-4871-858d-aab500f4e209
   notes:
   readings:
   logistics:
