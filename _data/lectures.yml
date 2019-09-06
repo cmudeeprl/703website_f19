@@ -57,8 +57,9 @@
   lecturer:
   title: >
     <strong>REC: TensorFlow, keras, OpenAI gym, and AWS</strong>
-  slides: 
-  video:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/recitation_2_1.pdf
+  slides2: https://cmudeeprl.github.io/703website/assets/lectures/recitation_2_2.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dc88e822-0c55-40c2-b3e5-aac00107685d
   notes:
   readings:
     - <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html" target=  "_blank">Amazon EC2 Basics</a>
