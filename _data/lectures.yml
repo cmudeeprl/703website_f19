@@ -56,13 +56,13 @@
 - date: F 09/06
   lecturer:
   title: >
-    <strong>REC: TensorFlow, keras, OpenAI gym, and AWS</strong>
+    <strong>REC: TensorFlow, Keras, OpenAI Gym</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/recitation_2_1.pdf
   slides2: https://cmudeeprl.github.io/703website/assets/lectures/recitation_2_2.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dc88e822-0c55-40c2-b3e5-aac00107685d
   notes:
   readings:
-    - <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html" target=  "_blank">Amazon EC2 Basics</a>
+    # - <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html" target=  "_blank">Amazon EC2 Basics</a>
     - <a href="http://gym.openai.com/docs/" target=  "_blank">OpenAI Gym Documentation</a>
     - <a href="https://www.tensorflow.org/guide/low_level_intro" target=  "_blank">The TensorFlow Low Level API</a>
     - <a href="https://www.tensorflow.org/guide/keras" target=  "_blank">The TensorFlow High Level (Keras) API</a>
