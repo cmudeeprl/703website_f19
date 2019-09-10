@@ -72,8 +72,9 @@
   lecturer:
   title: >
     <strong>Generative adversarial imitation learning</strong>
-  slides:
-  video:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_4_1.pdf
+  slides2: https://cmudeeprl.github.io/703website/assets/lectures/lecture_4_2.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed7100f7-49d7-42d3-9814-aabe01688886
   notes:
   readings:
     - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Networks</a>
