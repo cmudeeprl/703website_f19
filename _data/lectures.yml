@@ -86,7 +86,7 @@
   title: >
     <strong>MDPs, dynamic programming, MC learning (tabular/func. approx.)</strong>
   slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40a34b64-98bd-4c24-9a6c-aab500f4f593
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
@@ -96,8 +96,7 @@
   lecturer:
   title: >
     <strong>REC: HW1, training GANs, GAIL</strong>
-  slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f22f6b14-4cbc-429f-92e3-aac701071f76
   notes:
   readings:
   logistics:
