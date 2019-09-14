@@ -85,7 +85,7 @@
   lecturer:
   title: >
     <strong>MDPs, dynamic programming, MC learning (tabular/func. approx.)</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_5.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=40a34b64-98bd-4c24-9a6c-aab500f4f593
   notes:
   readings:
