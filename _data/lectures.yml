@@ -116,7 +116,8 @@
   lecturer:
   title: >
     <strong>MC/Temporal difference learning (tabular/func. approx.) cont.</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_7_1.pdf
+  slides2: https://cmudeeprl.github.io/703website/assets/lectures/lecture_7_2.pdf
   video:
   notes:
   readings:
