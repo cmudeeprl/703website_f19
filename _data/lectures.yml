@@ -118,7 +118,7 @@
     <strong>MC/Temporal difference learning (tabular/func. approx.) cont.</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_7_1.pdf
   slides2: https://cmudeeprl.github.io/703website/assets/lectures/lecture_7_2.pdf
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89548167-eeb4-441c-b558-aab500f51db9
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4, Ch5, Ch6, Ch7, Ch8, Ch9, Ch10
