@@ -144,7 +144,7 @@
   title: >
     <strong>Deep Q learning, reward distributions</strong>
   slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d912844-c796-4b8a-bde5-aab500f53263
   notes:
   readings:
     - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
@@ -160,7 +160,7 @@
   title: >
     <strong>Exploration-exploitation in multi-armed bandits, Monte Carlo Tree Search (MCTS)</strong>
   slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=601f0e87-a62c-4c64-a0df-aab500f543d8
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch2 2.1 - 2.7
@@ -182,7 +182,7 @@
   title: >
     <strong>Policy gradients, actor-critic methods</strong>
   slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8062af26-5900-432c-9d01-aab500f554e0
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
