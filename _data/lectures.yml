@@ -130,7 +130,7 @@
   title: >
     <strong>REC: MC/Temporal difference learning</strong>
   slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d919305e-7778-4ee6-b4b7-aace0107e10a
   notes:
   readings:
     # - Blundell et al. <a href="https://arxiv.org/abs/1505.05424" target="_blank">Weight Uncertainty in Neural Networks</a>
