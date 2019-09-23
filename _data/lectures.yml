@@ -127,7 +127,7 @@
 - date: F 09/20
   lecturer:
   title: >
-    <strong>REC: Gaussian processes, stochastic networks, Bayesian networks, variational autoencoders</strong>
+    <strong>REC: Variational autoencoders, GANs and GAIL</strong>
   slides:
   video:
   notes:
@@ -152,6 +152,7 @@
     - Shaul et al. <a href="https://arxiv.org/abs/1511.05952" target="_blank">Prioritized Experience Replay</a>
     - Bellemare et al. <a href="https://arxiv.org/abs/1707.06887" target="_blank">A Distributional Perspective on Reinforcement Learning</a>
     - Hessel et al. <a href="https://arxiv.org/abs/1710.02298" target="_blank">Rainbow - Combining Improvements in Deep Reinforcement Learning</a>
+    - <a href="https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf" target="_blank">Monte Carlo Theory</a>, 9.1, 9.2
   logistics: 
 
 - date: W 09/25
