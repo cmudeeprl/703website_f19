@@ -205,12 +205,13 @@
 - date: F 10/04
   lecturer:
   title: >
-    <strong>REC: normalizing flows</strong>
+    No class
+    # <strong>REC: normalizing flows</strong>
   slides:
   video:
   notes:
   readings:
-    - Rezende et al. <a href="http://proceedings.mlr.press/v37/rezende15.pdf" target="_blank">Variational Inference with Normalizing Flows</a>
+    # - Rezende et al. <a href="http://proceedings.mlr.press/v37/rezende15.pdf" target="_blank">Variational Inference with Normalizing Flows</a>
   logistics:
 
 - date: M 10/07
