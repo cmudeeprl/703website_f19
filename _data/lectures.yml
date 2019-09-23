@@ -143,7 +143,7 @@
   lecturer:
   title: >
     <strong>Deep Q learning, reward distributions</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_8.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d912844-c796-4b8a-bde5-aab500f53263
   notes:
   readings:
