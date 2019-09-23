@@ -95,10 +95,11 @@
 - date: F 09/13
   lecturer:
   title: >
-    <strong>REC: HW1, training GANs, GAIL</strong>
+    <strong>REC: Variational Autoencoders, GANs, GAIL</strong>
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f22f6b14-4cbc-429f-92e3-aac701071f76
   notes:
   readings:
+    - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
 
 - date: M 09/16
@@ -127,15 +128,14 @@
 - date: F 09/20
   lecturer:
   title: >
-    <strong>REC: Variational autoencoders, GANs and GAIL</strong>
+    <strong>REC: MC/Temporal difference learning</strong>
   slides:
   video:
   notes:
   readings:
-    - Blundell et al. <a href="https://arxiv.org/abs/1505.05424" target="_blank">Weight Uncertainty in Neural Networks</a>
-    - Kingma & Welling <a href="https://arxiv.org/pdf/1312.6114.pdf" target="_blank">Auto-Encoding Variational Bayes</a>
-    - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-    - Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a>
+    # - Blundell et al. <a href="https://arxiv.org/abs/1505.05424" target="_blank">Weight Uncertainty in Neural Networks</a>
+    # - Kingma & Welling <a href="https://arxiv.org/pdf/1312.6114.pdf" target="_blank">Auto-Encoding Variational Bayes</a>
+    # - Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a>
   logistics: <span class="deadline">HW1 due</span> <br>
     <span class="event">HW2 out</span>
 
