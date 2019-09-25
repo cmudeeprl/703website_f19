@@ -144,7 +144,7 @@
   title: >
     <strong>Deep Q learning, reward distributions</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_8.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d912844-c796-4b8a-bde5-aab500f53263
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=754eb6c0-72ca-4912-93f1-aad101060954
   notes:
   readings:
     - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
