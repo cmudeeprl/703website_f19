@@ -159,7 +159,7 @@
   lecturer:
   title: >
     <strong>Exploration-exploitation in multi-armed bandits, Monte Carlo Tree Search (MCTS)</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_9.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=601f0e87-a62c-4c64-a0df-aab500f543d8
   notes:
   readings:
