@@ -159,8 +159,9 @@
   lecturer:
   title: >
     <strong>Exploration-exploitation in multi-armed bandits, Monte Carlo Tree Search (MCTS)</strong>
-  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_9.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=601f0e87-a62c-4c64-a0df-aab500f543d8
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_9_1.pdf
+  slides2: https://cmudeeprl.github.io/703website/assets/lectures/lecture_9_2.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e89485b7-c572-4adb-bf48-aad3011e65a5
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch2 2.1 - 2.7
@@ -171,8 +172,9 @@
   lecturer:
   title: >
     <strong>REC: Natural gradients</strong>
-  slides:
-  video:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/recitation_4_1.pdf
+  slides2: https://cmudeeprl.github.io/703website/assets/lectures/recitation_4_2.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6578796-8818-4353-8cd0-aad501085a6e
   notes:
   readings:
   logistics:
