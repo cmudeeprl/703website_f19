@@ -262,7 +262,8 @@
     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
     - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-deep-neural-networks-tree-search/" target="_blank">Mastering the Game of Go with Deep Neural Networks and Tree Search</a>
     - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge/" target="_blank">Mastering the Game of Go without Human Knowledge</a>
-  logistics:
+  logistics: <span class="deadline">HW3 due</span> <br>
+    <span class="event">HW4 out</span>
 
 - date: W 10/16
   lecturer:
@@ -277,7 +278,7 @@
     - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     - Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a>
     - Deisenroth et al. <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.233.2347&rep=rep1&type=pdf" target="_blank">PILCO - A Model-Based and Data-Efficient Approach to Policy Search</a>
-  logistics: <span class="deadline">HW3 due</span>
+  logistics: 
 
 - date: F 10/18
   lecturer:
@@ -312,8 +313,7 @@
     - Nachum et al. <a href="https://arxiv.org/abs/1805.08296" target="_blank">Data-Efficient Hierarchical Reinforcement Learning</a>
     - Savinov et al. <a href="https://arxiv.org/abs/1803.00653" target="_blank">Semi-parametric Topological Memory for Navigation</a>
     - Vezhnevets et al. <a href="https://arxiv.org/abs/1703.01161" target="_blank">FeUdal Networks for Hierarchical Reinforcement Learning</a>
-  logistics: <span class="deadline">HW4 due</span> <br>
-    <span class="event">HW5 out</span>
+  logistics:
 
 - date: F 10/25
   lecturer:
@@ -336,7 +336,8 @@
   video:
   notes:
   readings:
-  logistics:
+  logistics: <span class="deadline">HW4 due</span> <br>
+    <span class="event">HW5 out</span>
 
 - date: W 10/30
   lecturer:
@@ -386,8 +387,7 @@
   notes:
   readings:
     - Levine et al. <a href="https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf" target="_blank">Guided Policy Search</a>
-  logistics: <span class="deadline">HW5 due</span> <br>
-    <span class="event">HW6 out</span>
+  logistics: 
 
 - date: F 11/08
   lecturer:
@@ -408,7 +408,7 @@
   notes:
   readings:
     - Pinto et al. <a href="https://arxiv.org/abs/1710.06542" target="_blank">Asymmetric Actor Critic</a>
-  logistics: <span class="event">HW7 out</span>
+  logistics: <span class="deadline">HW5 due</span>
 
 - date: W 11/13
   lecturer:
@@ -455,7 +455,7 @@
   video:
   notes:
   readings:
-  logistics: <span class="deadline">HW6 due</span>
+  logistics: <span class="event">HW6 out</span>
 
 - date: F 11/22
   lecturer:
@@ -515,7 +515,7 @@
   lecturer:
   title: >
     No lecture
-  logistics: <span class="deadline">HW7 due</span>
+  logistics: <span class="deadline">HW6 due</span>
 
 - date:
   title:
