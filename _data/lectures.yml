@@ -239,7 +239,7 @@
   readings:
     - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic - Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
     - Haarnoja et al. <a href="https://arxiv.org/abs/1702.08165" target="_blank">Reinforcement Learning with Deep Energy-Based Policies</a>
-  logistics: <span class="event">HW4 out</span>
+  logistics:
 
 - date: F 10/11
   lecturer:
