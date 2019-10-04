@@ -196,7 +196,7 @@
   lecturer:
   title: >
     <strong>Policy gradients, actor-critic methods</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_11.pdf
   video:
   notes:
   readings:
