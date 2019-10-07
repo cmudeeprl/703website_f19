@@ -224,7 +224,7 @@
   title: >
     <strong>Deterministic policy gradients, goal-conditioned policies, goal relabelling</strong>
   slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e7cbf9d-6e81-4e7b-9093-aad80108fb94
   notes:
   readings:
     - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
@@ -236,7 +236,7 @@
   title: >
     <strong>Learning stochastic policies with Soft Q learning and Soft Actor-critic</strong>
   slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e7cbf9d-6e81-4e7b-9093-aad80108fb94
   notes:
   readings:
     - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic - Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
