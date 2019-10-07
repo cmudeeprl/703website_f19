@@ -183,8 +183,8 @@
   lecturer:
   title: >
     <strong>Exploration-exploitation in multi-armed bandits</strong>
-  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_10_1.pdf
-  slides2: https://cmudeeprl.github.io/703website/assets/lectures/lecture_10_2.pdf
+  # slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_10_1.pdf
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_10_2.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8062af26-5900-432c-9d01-aab500f554e0
   notes:
   readings:
