@@ -219,7 +219,8 @@
   lecturer:
   title: >
     <strong>Policy Gradients (cont.), Deterministic policy gradients</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_12_1.pdf
+  slides2: https://cmudeeprl.github.io/703website/assets/lectures/lecture_12_2.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e7cbf9d-6e81-4e7b-9093-aad80108fb94
   notes:
   readings:
