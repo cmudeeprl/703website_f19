@@ -411,7 +411,8 @@
   notes:
   readings:
     - Pinto et al. <a href="https://arxiv.org/abs/1710.06542" target="_blank">Asymmetric Actor Critic</a>
-  logistics: <span class="deadline">HW5 due</span>
+  logistics: <span class="deadline">HW5 due</span> <br>
+    <span class="event">HW6 out</span>
 
 - date: W 11/13
   lecturer:
