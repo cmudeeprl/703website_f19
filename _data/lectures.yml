@@ -133,7 +133,7 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d919305e-7778-4ee6-b4b7-aace0107e10a
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4, Ch5, Ch6, Ch7, Ch8, Ch9, Ch10
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4, Ch5, Ch6, Ch7, Ch8
     # - Blundell et al. <a href="https://arxiv.org/abs/1505.05424" target="_blank">Weight Uncertainty in Neural Networks</a>
     # - Kingma & Welling <a href="https://arxiv.org/pdf/1312.6114.pdf" target="_blank">Auto-Encoding Variational Bayes</a>
     # - Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a>
@@ -143,18 +143,18 @@
 - date: M 09/23
   lecturer:
   title: >
-    <strong>MC/Temporal difference learning (tabular/func. approx.)</strong>
+    <strong>MC/Temporal difference learning</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_8.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=754eb6c0-72ca-4912-93f1-aad101060954
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4, Ch5, Ch6, Ch7, Ch8, Ch9, Ch10
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4, Ch5, Ch6, Ch7, Ch8
   logistics: 
 
 - date: W 09/25
   lecturer:
   title: >
-    <strong>Deep Q learning, reward distributions</strong>
+    <strong>Deep Q learning</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_9_1.pdf
   # slides2: https://cmudeeprl.github.io/703website/assets/lectures/lecture_9_2.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e89485b7-c572-4adb-bf48-aad3011e65a5
@@ -163,7 +163,7 @@
     - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
     - Hasselt et al. <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
     - Shaul et al. <a href="https://arxiv.org/abs/1511.05952" target="_blank">Prioritized Experience Replay</a>
-    - Bellemare et al. <a href="https://arxiv.org/abs/1707.06887" target="_blank">A Distributional Perspective on Reinforcement Learning</a>
+    # - Bellemare et al. <a href="https://arxiv.org/abs/1707.06887" target="_blank">A Distributional Perspective on Reinforcement Learning</a>
     - Hessel et al. <a href="https://arxiv.org/abs/1710.02298" target="_blank">Rainbow - Combining Improvements in Deep Reinforcement Learning</a>
   logistics:
 
@@ -238,7 +238,8 @@
   readings:
     - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
-    - Rezende et al. <a href="http://proceedings.mlr.press/v37/rezende15.pdf" target="_blank">Variational Inference with Normalizing Flows</a>
+    # - Rezende et al. <a href="http://proceedings.mlr.press/v37/rezende15.pdf" target="_blank">Variational Inference with Normalizing Flows</a>
+    - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
   logistics:
 
 - date: F 10/11
