@@ -233,7 +233,7 @@
   title: >
     <strong>Deterministic policy gradients, goal-conditioned policies, goal relabelling</strong>
   slides:
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e7cbf9d-6e81-4e7b-9093-aad80108fb94
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c186a7b-4ddd-4e44-83a8-aad801090aa3
   notes:
   readings:
     - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
