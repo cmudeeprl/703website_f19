@@ -122,13 +122,12 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89548167-eeb4-441c-b558-aab500f51db9
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4, Ch5, Ch6, Ch7, Ch8, Ch9, Ch10
-  logistics:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4, Ch5
 
 - date: F 09/20
   lecturer:
   title: >
-    <strong>REC: MC/Temporal difference learning</strong>
+    <strong>REC: MC/TD learning</strong>
   slides:
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d919305e-7778-4ee6-b4b7-aace0107e10a
   notes:
