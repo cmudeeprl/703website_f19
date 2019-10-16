@@ -256,7 +256,7 @@
   title: >
     <strong>Natural Policy Gradients, Proximal Policy Optimization</strong>
   slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47c40d4c-113b-4151-a407-aae60106ef6c
   notes:
   readings:
     - Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
