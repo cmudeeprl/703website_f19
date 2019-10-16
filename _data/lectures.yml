@@ -268,8 +268,8 @@
   lecturer:
   title: >
     <strong>Monte Carlo Tree Search (MCTS)</strong>
-  slides:
-  video:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_15.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c13b556-1d74-46c2-8665-aae8010779cf
   notes:
   readings:
     - <a href="https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf" target="_blank">Monte Carlo Theory</a>, 9.1, 9.2
