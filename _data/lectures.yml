@@ -261,6 +261,8 @@
   readings:
     - Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
     - Schulman et al. <a href="https://arxiv.org/abs/1707.06347" target="_blank">Proximal Policy Optimization Algorithms</a>
+    - Wu et al. <a href="https://papers.nips.cc/paper/7112-scalable-trust-region-method-for-deep-reinforcement-learning-using-kronecker-factored-approximation.pdf", target="blank">Scalable trust-region method for deep reinforcement
+learning using Kronecker-factored approximation</a>
   logistics: <span class="deadline">HW3 due</span> <br>
     <span class="event">HW4 out</span>
 
