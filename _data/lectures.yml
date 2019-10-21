@@ -290,7 +290,7 @@
   title: >
     <strong>Model learning and model-based RL in low dim state space</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_16.pdf
-  video: 
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f68ee964-49b6-4a30-a32d-aaed01072cda
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1, Ch2
