@@ -346,6 +346,17 @@
 - date: W 10/30
   lecturer:
   title: >
+    No class
+  slides:
+  video:
+  notes:
+  readings:
+  logistics: <span class="deadline">HW4 due</span> <br>
+    <span class="event">HW5 out</span>
+
+- date: F 11/01
+  lecturer:
+  title: >
     <strong>Model learning and model-based RL in high dim sensory space</strong>
   slides:
   video:
@@ -356,18 +367,6 @@
     - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
     - Ebert et al. <a href="https://arxiv.org/abs/1710.05268" target="_blank">Self-Supervised Visual Planning with Temporal Skip Connections</a>
     - Pong et al. <a href="https://arxiv.org/pdf/1802.09081.pdf" target="_blank">Temporal Difference Models&#58; Model-free deep RL for Model-Based Control</a>
-  logistics: <span class="deadline">HW4 due</span> <br>
-    <span class="event">HW5 out</span>
-
-- date: F 11/01
-  lecturer:
-  title: >
-    <strong>REC: Homework 5 (MBRL)</strong>
-  slides:
-  video:
-  notes:
-  readings:
-    
   logistics:
 
 - date: M 11/04
@@ -413,8 +412,7 @@
   notes:
   readings:
     - Pinto et al. <a href="https://arxiv.org/abs/1710.06542" target="_blank">Asymmetric Actor Critic</a>
-  logistics: <span class="deadline">HW5 due</span> <br>
-    <span class="event">HW6 out</span>
+  logistics: 
 
 - date: W 11/13
   lecturer:
@@ -428,7 +426,8 @@
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
     - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
     - Chetobar et al. <a href="https://arxiv.org/abs/1810.05687" target="_blank">Closing the Sim-to-Real Loop - Adapting Simulation Randomization with Real World Experience</a>
-  logistics:
+  logistics: <span class="deadline">HW5 due</span> <br>
+    <span class="event">HW6 out</span>
 
 - date: F 11/15
   lecturer:
