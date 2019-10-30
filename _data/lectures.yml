@@ -341,8 +341,7 @@
     - Burda et al. <a href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
     - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement//" target="_blank">Self-Supervised Exploration via Disagreement</a>
     - Savinov et al. <a href="https://arxiv.org/abs/1810.02274/" target="_blank">Episodic Curiosity through Reachability</a>
-  logistics: <span class="deadline">HW4 due</span> <br>
-    <span class="event">HW5 out</span>
+  logistics:
 
 - date: W 10/30
   lecturer:
@@ -357,7 +356,8 @@
     - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
     - Ebert et al. <a href="https://arxiv.org/abs/1710.05268" target="_blank">Self-Supervised Visual Planning with Temporal Skip Connections</a>
     - Pong et al. <a href="https://arxiv.org/pdf/1802.09081.pdf" target="_blank">Temporal Difference Models&#58; Model-free deep RL for Model-Based Control</a>
-  logistics:
+  logistics: <span class="deadline">HW4 due</span> <br>
+    <span class="event">HW5 out</span>
 
 - date: F 11/01
   lecturer:
