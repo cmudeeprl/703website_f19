@@ -332,7 +332,7 @@
   title: >
     <strong>Curiosity-driven learning</strong>
   slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f07c1590-eb15-44cb-95bc-aaf401210c76
   notes:
   readings:
     - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
@@ -347,19 +347,21 @@
   lecturer:
   title: >
     No class
-  slides:
-  video:
-  notes:
-  readings:
+  slides: 
+  video: 
+  notes: 
+  readings: 
+    - None
+    - None
   logistics: <span class="deadline">HW4 due</span> <br>
     <span class="event">HW5 out</span>
 
 - date: F 11/01
-  lecturer:
+  lecturer: 
   title: >
     <strong>Model learning and model-based RL in high dim sensory space</strong>
   slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f5af510-f977-4634-8820-aaf80108ee41
   notes:
   readings:
     - Dosovitskiy et al. <a href="https://arxiv.org/abs/1611.01779" target="_blank">Learning to Act by Predicting the Future</a>
@@ -397,9 +399,9 @@
   lecturer:
   title: >
     No class
-  slides:
-  video:
-  notes:
+  slides: 
+  video: 
+  notes: 
   readings:
   logistics:
 
