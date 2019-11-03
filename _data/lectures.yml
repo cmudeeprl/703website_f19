@@ -344,7 +344,7 @@
   logistics:
 
 - date: W 10/30
-  lecturer:
+  lecturer: 
   title: >
     No class
   slides: 
@@ -360,7 +360,7 @@
   lecturer: 
   title: >
     <strong>Model learning and model-based RL in high dim sensory space</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_17.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f5af510-f977-4634-8820-aaf80108ee41
   notes:
   readings:
