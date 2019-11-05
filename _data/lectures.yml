@@ -375,8 +375,8 @@
   lecturer:
   title: >
     <strong>iLQR, policy learning from imitating local controllers</strong>
-  slides:
-  video:
+  slides:  https://cmudeeprl.github.io/703website/assets/lectures/lecture_18.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62a2bfc9-5fc1-4c7f-8174-aafb01168b08
   notes:
   readings:
     - Levine et al. <a href="https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf" target="_blank">Guided Policy Search</a>
