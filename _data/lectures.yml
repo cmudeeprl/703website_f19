@@ -385,14 +385,14 @@
 - date: 11/06
   lecturer:
   title: >
-    <strong>Learning from demonstrations and reinforcement, visual imitation</strong>
+    <strong>Maximum Entropy RL</strong>
   slides:
   video:
   notes:
   readings:
-    - Zhu et al. <a href="https://arxiv.org/pdf/1802.09564.pdf" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
-    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV - Reinforcement Learning of Physical Skills from Videos</a>
-    - Pathak et al. <a href="https://arxiv.org/abs/1804.08606" target="_blank">Zero-Shot Visual Imitation</a>
+    - Haarnoja et al. <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
+    - Haarnoja et al. et al. <a href="https://arxiv.org/abs/1702.08165" target="_blank">Reinforcement Learning with Deep Energy-Based Policies</a>
+    - Haarnoja et al. et al. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic&#58; Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
   logistics: 
 
 - date: F 11/08
@@ -408,15 +408,29 @@
 - date: M 11/11
   lecturer:
   title: >
+    <strong>Learning from demonstrations and reinforcement, visual imitation</strong>
+  slides:
+  video:
+  notes:
+  readings:
+    - Zhu et al. <a href="https://arxiv.org/pdf/1802.09564.pdf" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
+    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV - Reinforcement Learning of Physical Skills from Videos</a>
+    - Pathak et al. <a href="https://arxiv.org/abs/1804.08606" target="_blank">Zero-Shot Visual Imitation</a>
+  logistics: 
+
+- date: W 11/13
+  lecturer:
+  title: >
     <strong>Multi-task RL, self-supervision, auxiliary tasks, asymmetric supervision</strong>
   slides:
   video:
   notes:
   readings:
     - Pinto et al. <a href="https://arxiv.org/abs/1710.06542" target="_blank">Asymmetric Actor Critic</a>
-  logistics: 
+  logistics:
+    
 
-- date: W 11/13
+- date: F 11/15
   lecturer:
   title: >
     <strong>Generalization in RL, Sim2Real transfer</strong>
@@ -428,17 +442,6 @@
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
     - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
     - Chetobar et al. <a href="https://arxiv.org/abs/1810.05687" target="_blank">Closing the Sim-to-Real Loop - Adapting Simulation Randomization with Real World Experience</a>
-  logistics: <span class="deadline">HW5 due</span> <br>
-    <span class="event">HW6 out</span>
-
-- date: F 11/15
-  lecturer:
-  title: >
-    <strong>REC</strong>
-  slides:
-  video:
-  notes:
-  readings:
   logistics:
 
 - date: M 11/18
@@ -453,6 +456,7 @@
     - Pritzel et al. <a href="http://proceedings.mlr.press/v70/pritzel17a.html" target="_blank">Neural Episodic Control</a>
     - Parisotto et al. <a href="https://arxiv.org/abs/1702.08360" target="_blank">Neural Map&#58; Structured Memory for Deep Reinforcement Learning</a>
   logistics:
+    <span class="event">HW6 out</span>
 
 - date: W 11/20
   lecturer:
