@@ -382,12 +382,12 @@
     - Levine et al. <a href="https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf" target="_blank">Guided Policy Search</a>
   logistics:
 
-- date: 11/06
+- date: W 11/06
   lecturer:
   title: >
     <strong>Maximum Entropy RL</strong>
-  slides:
-  video:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_19.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3cb27113-367b-41c3-9e32-aafd01183506
   notes:
   readings:
     - Haarnoja et al. <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
