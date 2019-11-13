@@ -399,8 +399,8 @@
   lecturer:
   title: >
     No class
-  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_20.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a36ec736-d6d4-4f98-ad6d-ab020117bf36
+  slides: 
+  video: 
   notes: 
   readings:
   logistics:
@@ -408,9 +408,22 @@
 - date: M 11/11
   lecturer:
   title: >
+    <strong>Learning from demonstrations and reinforcement, visual imitation</strong>
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_20.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a36ec736-d6d4-4f98-ad6d-ab020117bf36
+  notes:
+  readings:
+    - Zhu et al. <a href="https://arxiv.org/pdf/1802.09564.pdf" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
+    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV - Reinforcement Learning of Physical Skills from Videos</a>
+    - Pathak et al. <a href="https://arxiv.org/abs/1804.08606" target="_blank">Zero-Shot Visual Imitation</a>
+  logistics: 
+
+- date: W 11/13
+  lecturer:
+  title: >
     <strong>Generalization in RL, Sim2Real transfer</strong>
-  slides:
-  video:
+  slides: 
+  video: 
   notes:
   readings:
     - Rajeswaran et al. <a href="https://arxiv.org/abs/1610.01283" target="_blank">EPOpt - Learning Robust Neural Network Policies Using Model Ensembles</a>
@@ -420,22 +433,8 @@
     - Bousmalis et al. <a href="https://arxiv.org/abs/1709.07857" target="_blank">Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping</a>
     - Zhu et al. <a href="https://arxiv.org/abs/1703.10593" target="_blank">Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks</a>
     - (Optional) Zhu et al. <a href="https://arxiv.org/abs/1711.11586" target="_blank">Toward Multimodal Image-to-Image Translation</a>
-  logistics: 
-
-- date: W 11/13
-  lecturer:
-  title: >
-    <strong>Learning from demonstrations and reinforcement, visual imitation</strong>
-  slides:
-  video:
-  notes:
-  readings:
-    - Zhu et al. <a href="https://arxiv.org/pdf/1802.09564.pdf" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
-    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV - Reinforcement Learning of Physical Skills from Videos</a>
-    - Pathak et al. <a href="https://arxiv.org/abs/1804.08606" target="_blank">Zero-Shot Visual Imitation</a>
   logistics:
     
-
 - date: F 11/15
   lecturer:
   title: >
