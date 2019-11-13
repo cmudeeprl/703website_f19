@@ -423,7 +423,7 @@
   title: >
     <strong>Generalization in RL, Sim2Real transfer</strong>
   slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_21.pdf
-  video: 
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=009effc6-07f3-4f77-a159-ab0401168eb3
   notes:
   readings:
     - Rajeswaran et al. <a href="https://arxiv.org/abs/1610.01283" target="_blank">EPOpt - Learning Robust Neural Network Policies Using Model Ensembles</a>
