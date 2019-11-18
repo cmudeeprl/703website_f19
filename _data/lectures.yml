@@ -502,6 +502,16 @@
     No class (Thanksgiving break)
   logistics:
 
+- date: S 12/01
+  lecturer:
+  title: >
+  slides:
+  video:
+  notes:
+  recordings:
+  logistics:
+    <span class="deadline">HW6 due</span>
+
 - date: M 12/02
   lecturer:
   title: >
@@ -528,7 +538,7 @@
   lecturer:
   title: >
     No lecture
-  logistics: <span class="deadline">HW6 due</span>
+  logistics: 
 
 - date:
   title:
