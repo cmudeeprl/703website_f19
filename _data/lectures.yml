@@ -449,25 +449,33 @@
 - date: M 11/18
   lecturer:
   title: >
-    <strong>Memory architectures for RL (guest lecture)</strong>
-  slides:
-  video:
+    <strong>Inverse graphics architectures for model learning and Instruction Following</strong>
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_22.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=605352cc-987b-427b-b619-ab090117c673
   notes:
   readings:
-    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore&#58; a New Approach for Hard-Exploration Problems</a>
-    - Pritzel et al. <a href="http://proceedings.mlr.press/v70/pritzel17a.html" target="_blank">Neural Episodic Control</a>
-    - Parisotto et al. <a href="https://arxiv.org/abs/1702.08360" target="_blank">Neural Map&#58; Structured Memory for Deep Reinforcement Learning</a>
+    - Tung et al. <a href="https://arxiv.org/abs/1901.00003" target="_blank">Learning Spatial Common Sense with Geometry-Aware Recurrent Networks</a>
+    - Harley et al. <a href="https://arxiv.org/abs/1906.03764" target="_blank">Visual Representation Learning with 3D View-Contrastive Inverse Graphics Networks</a>
+    - Prabhudesai et al. <a href="https://arxiv.org/abs/1910.01210" target="_blank">Embodied Language Grounding with Implicit 3D Visual Feature Representations</a>
+    # - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore&#58; a New Approach for Hard-Exploration Problems</a>
+    # - Pritzel et al. <a href="http://proceedings.mlr.press/v70/pritzel17a.html" target="_blank">Neural Episodic Control</a>
+    # - Parisotto et al. <a href="https://arxiv.org/abs/1702.08360" target="_blank">Neural Map&#58; Structured Memory for Deep Reinforcement Learning</a>
   logistics:
     <span class="event">HW6 out</span>
 
 - date: W 11/20
   lecturer:
   title: >
-    <strong>BUFFER</strong>
+    <strong>Learning from demonstations and task rewards</strong>
   slides:
   video:
   notes:
   readings:
+    - Gao et al. <a href="https://arxiv.org/abs/1802.05313" target="_blank">Reinforcement Learning from Imperfect Demonstrations</a>
+    - Hester et al. <a href="https://arxiv.org/abs/1704.03732" target="_blank">Deep Q-learning from Demonstrations</a>
+    - Aytar et al. <a href="https://arxiv.org/abs/1805.11592" target="_blank">Playing hard exploration games by watching YouTube</a>
+    - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
+    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
   logistics:
 
 - date: F 11/22
