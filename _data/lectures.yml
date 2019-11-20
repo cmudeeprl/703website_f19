@@ -438,12 +438,12 @@
 - date: F 11/15
   lecturer:
   title: >
-    <strong>Multi-task RL, self-supervision, auxiliary tasks, asymmetric supervision</strong>
+    <strong>Recitation HW5</strong>
   slides:
   video:
   notes:
   readings:
-    - Pinto et al. <a href="https://arxiv.org/abs/1710.06542" target="_blank">Asymmetric Actor Critic</a>
+    # - Pinto et al. <a href="https://arxiv.org/abs/1710.06542" target="_blank">Asymmetric Actor Critic</a>
   logistics:
 
 - date: M 11/18
