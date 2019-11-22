@@ -467,8 +467,8 @@
   lecturer:
   title: >
     <strong>Learning from demonstations and task rewards</strong>
-  slides:
-  video:
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_23.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc89c296-5db3-4af2-bf14-ab0b0117a22c
   notes:
   readings:
     - Gao et al. <a href="https://arxiv.org/abs/1802.05313" target="_blank">Reinforcement Learning from Imperfect Demonstrations</a>
