@@ -528,13 +528,14 @@
 - date: M 12/02
   lecturer:
   title: >
-    <strong>Learning from narrated demonstrations, instruction following</strong>
-  slides:
-  video:
+    <strong>Episodic Memory and RL, Fast and Slow RL</strong>
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture_25.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2bc841a1-20f1-4298-9e05-ab170118aeac
   notes:
   readings:
-    - Tung et al. <a href="https://arxiv.org/abs/1804.10692" target="_blank">Reward Learning from Narrated Demonstrations</a>
-    - Tung et al. <a href="https://www.cs.cmu.edu/~katef/papers/embodiedlanguagegroundingtalk.pdf" target="_blank">Embodied Language Grounding</a>
+    - Botvinick et al. <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0" target="_blank">Reinforcement Learning, Fast and Slow</a>
+    - Duan et al. <a href="https://arxiv.org/abs/1611.02779" target="_blank">RL2&#58; Fast Reinforcement Learning via Slow Reinforcement Learning</a>
+    - Akkaya et al. <a href="https://arxiv.org/abs/1910.07113" target="_blank">Solving Rubik's Cube with a Robot Hand</a>
   logistics:
 
 - date: W 12/04
